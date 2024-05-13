@@ -4,7 +4,7 @@ This program allows you to create a todo list that is stored locally
 
 The application allows to enter, list, or remove to-do items and stores the data in a local text file
 
-In this application different elements of the JAva language are used. Variables, expressions, conditionals, Loops, functions, classes, queue data structure and text file manipulation.
+In this application different elements of the Java language are used. Variables, expressions, conditionals, Loops, functions, classes, queue data structure and text file manipulation.
 
 
 [Software Demo Video](https://zoom.us/clips/share/m83ZVJUebYUHVhhI9gcXkKISU4FkHG6p4r8vtbJT8znPf8WByQvsCqK87vX05X1FgKW9XBAeUWgYtHTguKzCULDP.iNiB4gk-s7sXn0dr)
